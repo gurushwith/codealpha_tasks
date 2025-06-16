@@ -46,7 +46,7 @@ This project is a simple web scraper built using **Python** and **BeautifulSoup*
 ## 🛠️ Setup Instructions
 
 ### 1. Clone this repository or download the files
-git clone https://github.com/MERUKUMAR/codealpha_tasks.git
+git clone (https://github.com/gurushwith/codealpha_tasks.git)
 cd codealpha_tasks
 
 **Install Dependencies**:
@@ -113,7 +113,7 @@ Plotted Monthly Sales Trend
 ## 🛠️ Setup Instructions
 
 ### 1. Clone this repository or download the files
-git clone https://github.com/MERUKUMAR/codealpha_tasks.git
+git clone https://github.com/gurushwith/codealpha_tasks.git
 cd codealpha_tasks
 
 **Install Dependencies**:
@@ -207,6 +207,6 @@ Transform raw student data into compelling visuals and data stories that support
 ## 🛠️ Setup Instructions
 
 ### 1. Clone this repository or download the files
-git clone https://github.com/MERUKUMAR/codealpha_tasks.git
+git clone https://github.com/gurushwith/codealpha_tasks.git
 cd codealpha_tasks
 
